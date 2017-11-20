@@ -123,5 +123,5 @@ jsonContent:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Zhiqing-Lee/blog.git
+  repo: git@github.com:zhiqing-lee/Blog.git
   branch: gh-pages
