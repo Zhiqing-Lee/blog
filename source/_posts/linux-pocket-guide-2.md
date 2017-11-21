@@ -2,13 +2,11 @@
 title: 《Linux pocket guide》读书笔记之二：Shell特性
 date: 2016-07-20
 categories:
-- 读书笔记
 - Linux
 tags:
 - Linux
 - Code
-- 《Linux pocket guide》
-- 读书笔记
+- Shell
 ---
 
 使用Linux操作系统时，通常是在一个叫Shell的东西里输入命令然后敲入回车，从而让Linux执行相应的程序。比如在Shell中输入`who`然后敲入回车，系统将会输出有哪些用户在什么地方登录了该计算机。

@@ -1,15 +1,12 @@
 ---
-layout: posts
 title: Android学习笔记：volley初试
 date: 2016-07-24
 categories:
-- 学习笔记
 - Android
 tags:
 - Android
 - Code
 - Volley
-- 学习笔记
 ---
 
 Volley是一个Android的HTTP库，用于方便地执行网络操作。
