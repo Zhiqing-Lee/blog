@@ -1,0 +1,3 @@
+[submodule "themes/typescript"]
+	path = themes/typescript
+	url = git@github.com:zhiqing-lee/hexo-theme-typescript.git
